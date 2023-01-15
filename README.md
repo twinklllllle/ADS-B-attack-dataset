@@ -1,2 +1,3 @@
 # ADS-B-attack-dataset
-This repository presents the exception data set based on ADS-B historical data
+This repository provides anomaly datasets based on ADS-B historical data.As a widely used surveillance technology, ADS-B has been recognized as a threat to network security.We believe that our published ADS-B anomaly database is valuable for related researchers.The data in the ADS-B_data.TXT file is the real data of ADS-B.ADS-B data format is shown as example 1. example 1: 2017-02-10 10:43:06: 780AE7,CDG4652,118.4102173,38.9137604,22600,421.93,257.545,0,64 Time: 2017-02-10 10:43:06: Flight ID:CDG4652 Longtitude:118.4102173 Latitude：38.9137604 Altitude:22600 Speed:421.93 Heading:257.545
+We randomly select time periods in multiple flights for abnormal data processing and separately publish the processed exception data in the.txt file.
